@@ -12,10 +12,10 @@
 ```
   Início
     Var
-      Entrada, n1, n2: real
-      Ler (entrada)
+      valor, n1, n2: real
+      Ler (valor)
       Aproximar (n1, n2) até que se aproximem
-      Escrever (raiz quadrada da entrada)
+      Escrever (raiz quadrada da "valor")
   Fim
 ```
 + **Justificativa do termo *polya* no nome do repositório**
