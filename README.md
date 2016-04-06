@@ -1,13 +1,25 @@
-Descrição do problema;
+### bccpolya
 
-Apresentação da solução em linguagem matemática;
++ **Descrição do Problema**
 
-Apresentação da solução em Português Estruturado;
+  Uma questão matemática, onde a solução pode vir por um processo de cálculo e programação. 
 
-Apresentação de solução em Fluxograma;
++ **Apresentação da solução em linguagem matemática**
 
-Justificativa do uso do termo "polya" no nome do repositório.
+  Se n = a * b, então (a + b)/2 é uma aproximação de √n que vai se aproximando cada vez do resultado e uma raiz aproximado.
 
++ **Apresentação da solução em Português Estruturado**
+```
+  Início
+    Var
+      Entrada, n1, n2: real
+      Ler (entrada)
+      Aproximar (n1, n2) até que se aproximem
+      Escrever (raiz quadrada da entrada)
+  Fim
+```
++ **Justificativa do termo *polya* no nome do repositório**
+  
+  O termo *polya* foi usado no nome do repositório devido a *George Pólya*, professor de matemática Hungaro*.
 
-2.Arquivo "main.c" contendo todo o código do programa.
-
+ Métodos e questões difíceis envolve a substituição de respostas para um projeto por outras de resolução mais fácil a fim de encontrar soluções viáveis, ainda que imperfeitas. 
